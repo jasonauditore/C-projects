@@ -1,0 +1,5 @@
+C:/Users/jason/CLionProjects/course/cmake-build-debug/CMakeFiles/course.dir
+C:/Users/jason/CLionProjects/course/cmake-build-debug/CMakeFiles/new_target.dir
+C:/Users/jason/CLionProjects/course/cmake-build-debug/CMakeFiles/class.dir
+C:/Users/jason/CLionProjects/course/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jason/CLionProjects/course/cmake-build-debug/CMakeFiles/rebuild_cache.dir
